@@ -4,18 +4,18 @@
     "paragraph": " Ao instituto professor Luiz Nogueira"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Bem-vindo ao Instituto Professor Luiz Nogueira. Somos uma organização comprometida com o desenvolvimento social e o bem-estar da comunidade. Desde a nossa fundação em 2020, temos trabalhado incansavelmente para promover iniciativas que capacitam e fortalecem indivíduos e grupos em situação de vulnerabilidade.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Orientação juridica",
+      "Agendamento Já e INSS",
+      "Certidão Nada consta",
+      "Segunda Via CPF"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Cadastro INSS",
+      "Abertura MEI",
+      "Aulas de reforço para crianças",
+      "E muito mais!!"
     ]
   },
   "Gallery": [
@@ -67,33 +67,33 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-gavel",
       "name": "Orientação jurídica",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Oferecemos serviços de orientação jurídica, fornecendo assistência profissional e aconselhamento especializado para questões legais."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-brain",
       "name": "Atendimento psicológico",
+      "text": "Oferecemos serviços de atendimento psicológico personalizado e confidencial, fornecendo um ambiente seguro e acolhedor para explorar questões emocionais."
+    },
+    {
+      "icon": "fa fa-user-md",
+      "name": "Clínico geral",
+      "text": "Nossa fundação oferece serviços de clínico geral acessíveis e de alta qualidade para comunidades carentes. Por meio de uma equipe dedicada de médicos experientes e profissionais de saúde, buscamos oferecer atendimento abrangente e compassivo para todas as idades. "
+    },
+    {
+      "icon": "fa fa-clinic-medical",
+      "name": "Fisioterapia",
+      "text": "Oferecemos serviços de fisioterapia personalizados e abrangentes, destinados a promover a recuperação e a melhoria da qualidade de vida."
+    },
+    {
+      "icon": "fa fa-Language",
+      "name": "curso de inglês",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Curso de manutenção de computadores",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
+      "icon": "fa fa-theater-mask",
+      "name": "Curso de teatro",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     }
   ],
@@ -131,19 +131,19 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/team/nougeira.jpeg",
+      "name": "Prof.Luz Nogueira",
+      "job": "Presidente"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/team/Ana_Lucia.jpeg",
+      "name": "Ana lúcia Nogueira",
+      "job": "Vice- presidente"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Willian Ayslan",
+      "job": "Programador"
     },
     {
       "img": "img/team/04.jpg",
@@ -152,9 +152,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+55 82 9114-8979",
-    "email": "institutoprofessorluiznogueira@gmail.com"
+    "address": " Conjunto Novo Jardim, Módulo 3, Qd.G n 5. Cidade universitária, Maceió-AL.",
+    "phone": ["+55 82 9114-8979 +55 82 99302-4128"],
+    "email": "institutoprofessornogueira@gmail.com"
     
   },
   "Features": [
