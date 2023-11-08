@@ -79,22 +79,22 @@
     {
       "icon": "fa fa-user-md",
       "name": "Clínico geral",
-      "text": "Nossa fundação oferece serviços de clínico geral acessíveis e de alta qualidade para comunidades carentes. Por meio de uma equipe dedicada de médicos experientes e profissionais de saúde, buscamos oferecer atendimento abrangente e compassivo para todas as idades. "
+      "text": "Nosso Instituto oferece serviços de clínico geral acessível para comunidades carentes. Buscamos oferecer um atendimento abrangente e compassivo para todas as idades. "
     },
     {
-      "icon": "fa fa-clinic-medical",
+      "icon": "fa fa-mars",
       "name": "Fisioterapia",
       "text": "Oferecemos serviços de fisioterapia personalizados e abrangentes, destinados a promover a recuperação e a melhoria da qualidade de vida."
     },
     {
       "icon": "fa fa-Language",
       "name": "curso de inglês",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Junte-se ao nosso curso de inglês e mergulhe em um ambiente de aprendizado dinâmico e interativo. Nossas aulas são projetadas para ajudar os alunos a desenvolver habilidades sólidas de comunicação em inglês, focando em conversação, compreensão auditiva, leitura e escrita."
     },
     {
-      "icon": "fa fa-theater-mask",
+      "icon": "fa fa-user-shakespeare",
       "name": "Curso de teatro",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Nosso programa de teatro oferece uma abordagem inclusiva e acessível para explorar a arte do drama. Acreditamos no poder transformador das artes cênicas e nos esforçamos para proporcionar uma plataforma vibrante para o desenvolvimento de talentos e habilidades teatrais. "
     }
   ],
   "Testimonials": [
