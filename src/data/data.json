@@ -72,9 +72,9 @@
       "text": "Oferecemos serviços de orientação jurídica, fornecendo assistência profissional e aconselhamento especializado para questões legais."
     },
     {
-      "icon": "fa fa-brain",
-      "name": "Atendimento psicológico",
-      "text": "Oferecemos serviços de atendimento psicológico personalizado e confidencial, fornecendo um ambiente seguro e acolhedor para explorar questões emocionais."
+      "icon": "fa fa-pencil",
+      "name": "Aulas de reforço",
+      "text": "Promovemos aulas de reforço personalizadas para crianças, visando promover o desenvolvimento acadêmico e proporcionar oportunidades educacionais igualitárias."
     },
     {
       "icon": "fa fa-user-md",
@@ -82,9 +82,9 @@
       "text": "Nosso Instituto oferece serviços de clínico geral acessível para comunidades carentes. Buscamos oferecer um atendimento abrangente e compassivo para todas as idades. "
     },
     {
-      "icon": "fa fa-mars",
-      "name": "Fisioterapia",
-      "text": "Oferecemos serviços de fisioterapia personalizados e abrangentes, destinados a promover a recuperação e a melhoria da qualidade de vida."
+      "icon": "fa fa-calculator",
+      "name": "Aulas de matemática",
+      "text": "Disponibilizamos aulas de matemática, criando um ambiente educacional envolvente com instrutores especializados para fortalecer as habilidades matemáticas dos alunos e impulsionar o sucesso acadêmico."
     },
     {
       "icon": "fa fa-Language",
@@ -92,9 +92,9 @@
       "text": "Junte-se ao nosso curso de inglês e mergulhe em um ambiente de aprendizado dinâmico e interativo. Nossas aulas são projetadas para ajudar os alunos a desenvolver habilidades sólidas de comunicação em inglês, focando em conversação, compreensão auditiva, leitura e escrita."
     },
     {
-      "icon": "fa fa-user-shakespeare",
-      "name": "Curso de teatro",
-      "text": "Nosso programa de teatro oferece uma abordagem inclusiva e acessível para explorar a arte do drama. Acreditamos no poder transformador das artes cênicas e nos esforçamos para proporcionar uma plataforma vibrante para o desenvolvimento de talentos e habilidades teatrais. "
+      "icon": "fa fa-gear",
+      "name": "Curso de manutenção de celulares/Computadores",
+      "text": "Oferecemos cursos especializados em manutenção de computadores e celulares, capacitando os alunos com habilidades práticas e conhecimentos técnicos essenciais para atender às demandas crescentes no setor de tecnologia."
     }
   ],
   "Testimonials": [
@@ -138,7 +138,7 @@
     {
       "img": "img/team/Ana_Lucia.jpeg",
       "name": "Ana lúcia Nogueira",
-      "job": "Vice- presidente"
+      "job": "Vice-presidente"
     },
     {
       "img": "img/team/03.jpg",
