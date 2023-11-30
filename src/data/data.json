@@ -1,7 +1,7 @@
 {
   "Header": {
-    "title": "Bem vindo",
-    "paragraph": " Ao instituto professor Luiz Nogueira"
+    "title": "Seja Bem vindo",
+    "paragraph": "Ao Instituto professor Luiz Nogueira"
   },
   "About": {
     "paragraph": "Bem-vindo ao Instituto Professor Luiz Nogueira. Somos uma organização comprometida com o desenvolvimento social e o bem-estar da comunidade. Desde a nossa fundação em 2020, temos trabalhado incansavelmente para promover iniciativas que capacitam e fortalecem indivíduos e grupos em situação de vulnerabilidade.",
@@ -20,34 +20,34 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Curso de Inglês",
+      "largeImage": "img/portfolio/ingles.jpg",
+      "smallImage": "img/portfolio/ingles(1).jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Curso de desenho",
+      "largeImage": "img/portfolio/desenho.jpg",
+      "smallImage": "img/portfolio/desenho(1).jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Atendimento fisioterapeutico",
+      "largeImage": "img/portfolio/fisio.jpg",
+      "smallImage": "img/portfolio/fisio(1).jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Curso de teatro",
+      "largeImage": "img/portfolio/teatro.jpg",
+      "smallImage": "img/portfolio/teatro(1).jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Aulas de Reforço",
+      "largeImage": "img/portfolio/reforco.jpg",
+      "smallImage": "img/portfolio/reforco(1).jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "aulas de Jiu-Jitsu",
+      "largeImage": "img/portfolio/jiu-jitsu.jpg",
+      "smallImage": "img/portfolio/jiu-jitsu(1).jpg"
     },
     {
       "title": "Project Title",
@@ -60,9 +60,9 @@
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Curso de artesanato",
+      "largeImage": "img/portfolio/artesanato.jpg",
+      "smallImage": "img/portfolio/artesanato(1).jpg"
     }
   ],
   "Services": [
@@ -74,7 +74,7 @@
     {
       "icon": "fa fa-pencil",
       "name": "Aulas de reforço",
-      "text": "Promovemos aulas de reforço personalizadas para crianças, visando promover o desenvolvimento acadêmico e proporcionar oportunidades educacionais igualitárias."
+      "text": "Promovemos aulas de reforço para crianças, visando promover o desenvolvimento acadêmico e proporcionar oportunidades educacionais igualitárias."
     },
     {
       "icon": "fa fa-user-md",
@@ -99,32 +99,32 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
+      
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
       "name": "John Doe"
     },
     {
-      "img": "img/testimonials/02.jpg",
+      
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
       "name": "Johnathan Doe"
     },
     {
-      "img": "img/testimonials/03.jpg",
+      
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
       "name": "John Doe"
     },
     {
-      "img": "img/testimonials/04.jpg",
+      
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
       "name": "Johnathan Doe"
     },
     {
-      "img": "img/testimonials/05.jpg",
+      
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
       "name": "John Doe"
     },
     {
-      "img": "img/testimonials/06.jpg",
+      
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
       "name": "Johnathan Doe"
     }
@@ -152,7 +152,7 @@
     }
   ],
   "Contact": {
-    "address": " Conjunto Novo Jardim, Módulo 3, Qd.G n 5. Cidade universitária, Maceió-AL.",
+    "address": "Conjunto Novo Jardim, Módulo 3, Qd.G n 5. Cidade universitária, Maceió-AL.",
     "phone": ["+55 82 9114-8979 +55 82 99302-4128"],
     "email": "institutoprofessornogueira@gmail.com"
     
@@ -160,23 +160,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Dialoga com a sociadade",
+      "text": "Nos esforçamos para incluir uma ampla gama de perspectivas, representando todas as camadas da sociedade. Reconhecemos a importância de ouvir diferentes vozes para construir entendimento mútuo."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Denuncia os problemas",
+      "text": "Somos comprometidos com a promoção da conscientização, transparência e justiça social.Nós buscamos identificar e expor questões que afetam negativamente a comunidade."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Possui uma equipe preparada",
+      "text": "Valorizamos cada indivíduo e reconhecemos a importância das experiências pessoais. Nossa equipe personalizada está comprometida em criar conexões genuínas e em entender as nuances específicas de cada situação."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-Desktop",
+      "title": "Possui um site",
+      "text": "Além do comprometimento prático e personalizado da nossa equipe, Nós também nos destacamos pela presença online dinâmica e interativa. Nosso site serve como uma extensão digital do nosso compromisso com o diálogo construtivo e a comunicação eficaz."
     }
   ]
 }
